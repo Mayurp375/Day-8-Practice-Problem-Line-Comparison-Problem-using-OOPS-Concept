@@ -5,5 +5,6 @@ public class Main {
         System.out.println("line Comparision");
         CalculateLengh.check();// calculate lengh
         Eqlality.check(); // line Equality
+        Compare.check(); //equal and compare
     }
 }
